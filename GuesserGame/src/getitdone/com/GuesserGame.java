@@ -1,7 +1,11 @@
   package getitdone.com;
 
 import java.util.Scanner;
-
+/* updates are;
+ * 1)setting user name and password
+ * 2)verifying user name and password
+ * 3)game continues to play after result declared until stopped manually.
+ */
 
 class UserCredentials{
 	 private String userName;
